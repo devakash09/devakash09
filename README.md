@@ -4,7 +4,7 @@
 
 ### Full Stack Solution Architect | Cloud Enthusiast | Open Source Contributor
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ankit_Singh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-singh2127/)](https://www.linkedin.com/in/devakash09/)
+[![Linkedin Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-singh2127/)](https://www.linkedin.com/in/devakash09/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.ankit-singh.com/)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17924891/ankit-singh?tab=profile)
 [![Quora Badge](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Ankit-Singh-17077)
